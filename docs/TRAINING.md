@@ -14,6 +14,8 @@ First, download the [LAV dataset](https://utexas.box.com/s/evo96v5md4r8nooma3z17
 We have released the full 3425 trajectories. However, each trajectory is self-contained, and you may only download a subset of them to run the training code.
 After downloading the dataset, specify the dataset path in the following line of `config.yaml`:
 
+You may also choose to download the split compressed files [HERE](https://utexas.box.com/s/fcj52g9juilnp4mt5k5fsqcqkxae77cb). 
+
 ```yaml
 data_dir: [PATH tO DATASET]
 ```
